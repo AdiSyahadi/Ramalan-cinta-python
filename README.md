@@ -1,0 +1,3 @@
+💻❤️ Ketika kode bertemu cinta...
+Program ini bisa kasih tahu seberapa cocok kamu sama pasangan. Tapi kalau hasilnya 50%, jangan panik... mungkin server-nya lagi error. 🤣
+#RomantisDenganPython #CodingLucu #ProgrammerHumor
